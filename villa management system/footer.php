@@ -1,5 +1,5 @@
    <!-- footer -->
-            <footer class="footer"> © 2019 All rights reserved. Hotel Booking system designed by <a href="https://www.youtube.com/channel/UCnTEh3OFRS1wP0-Wqm2D-rA?sub_confirmation=1"><b>Nikhil Bhalerao</b></a> ||<b> You can use source code for Academic Purpose but don't use this code for commercial purpose.</b></footer>
+            <footer class="footer"> © 2024 All rights reserved. Hotel Booking system designed by <a href="https://youtube.com/@lankanpremierleague?si=yhh8peIl_sM7ya5K"><b>Damith Namal</b></a> ||<b> Final year project of HNDIT SLIATE Galle.</b></footer>
             <!-- End footer -->
         </div>
         <!-- End Page wrapper  -->

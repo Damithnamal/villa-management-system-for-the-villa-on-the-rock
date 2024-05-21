@@ -28,18 +28,18 @@
                     <div class="col-lg-8" style="    margin-left: 10%;">
                         <div class="card">
                             <div class="card-title">
-                              <b>Name :</b> Nikhil Bhalerao
+                              <b>Name :</b>Damith Namal
                               <br><br>
-                              <b>Experty in</b> : PHP, Codeignitor, Laravel.
+                              <b>Education</b> : Student at HNDIT SLIATE GALLE.
                               <br><br>
-                              <b>work Exprience</b> : 5 Years 8 months.
+                              <b>work Exprience</b> : 2 year working experience in tourism industry.
                               <br><br>
                              
-                             <b> Facebook :</b> <a href="https://cutt.ly/wefzDNI">CLick here to Like Page</a>
+                             <b> Facebook :</b> <a href="https://www.facebook.com/damith.namal.90/">CLick here to Like Page</a>
                               <br>         <br>
-                              <b>Yotube Channel :</b> <a href="https://cutt.ly/vefl69a">Click here to subscribe Youtube Channel</a>
+                              <b>Yotube Channel :</b> <a href="https://youtube.com/@lankanpremierleague?si=qPTcwDFCIHeICO2r">Click here to subscribe Youtube Channel</a>
                               <br><br>
- <b>                           <font size="3" color="red">  appreciate my work by subscribing and liking my Youtube Channel, It will motivate me to Post more source code on this website.</b></font>
+ <b>                           <font size="3" color="red">  appreciate my work by subscribing and liking my Youtube Channel, It will help me to improve my talent</b></font>
                             </div>
                             <div class="card-body">
                               
